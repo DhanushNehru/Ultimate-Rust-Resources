@@ -16,7 +16,7 @@ The game generates a random secret number between 1 and 100. The player is promp
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/guessing_game.git
+git clone https://github.com/DhanushNehru/guessing_game.git
 ```
 
 2. Navigate to the project directory:

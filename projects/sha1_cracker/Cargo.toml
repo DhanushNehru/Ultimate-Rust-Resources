@@ -1,0 +1,8 @@
+[package]
+name = "sha1_cracker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha-1 = "0.9"
+hex = "0.4"
