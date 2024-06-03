@@ -5,7 +5,7 @@ use thiserror::Error;
 #[derive(Error, Debug, Clone)]
 pub enum Error {
     // Define a variant for command line usage errors
-    #[error("Usage: domain_scanner <github.com>")]
+    #[error("Usage: parallel_domain_scanner <github.com>")]
     CliUsage,
 
     // Define a variant for Reqwest errors, with a custom error message

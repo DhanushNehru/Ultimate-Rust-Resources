@@ -1,5 +1,5 @@
 [package]
-name = "domain_scanner"
+name = "parallel_domain_scanner"
 version = "0.1.0"
 edition = "2021"
 
