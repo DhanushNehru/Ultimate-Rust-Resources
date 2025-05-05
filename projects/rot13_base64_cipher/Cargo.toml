@@ -1,0 +1,7 @@
+[package]
+name = "rot13_base64_cipher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.21"

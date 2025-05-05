@@ -13,6 +13,7 @@ Compilation of Rust Projects from simple to advanced
 ### 🔹 Beginner  
 - [Guessing Game](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/guessing_game) 🎲  
 - [Logging in Rust](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/logging) 📝  
+- [ROT13 Base64 Encoder/Decoder](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/rot13_base64_cipher) 🔐  
 
 ### 🔹 Intermediate  
 - [SHA1 Generator](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/sha1_generator) 🔑  
