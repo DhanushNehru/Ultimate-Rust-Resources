@@ -1,5 +1,6 @@
-# Rust-Projects
-Compilation of Rust Projects from simple to advanced
+# Ultimate-Rust-Resources
+Compilation of Rust Resources and Projects from simple to advanced
+<img width="1600" height="840" alt="Why Go Was Built for Speed and Simplicity" src="https://github.com/user-attachments/assets/f33bca70-4bde-4589-9e13-0dfcd100cc72" />
 
 ## 📖 Documentation  
 
