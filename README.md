@@ -1,6 +1,9 @@
 # Ultimate-Rust-Resources
 Compilation of Rust Resources and Projects from simple to advanced
+
 <img width="1600" height="840" alt="Why Go Was Built for Speed and Simplicity" src="https://github.com/user-attachments/assets/f33bca70-4bde-4589-9e13-0dfcd100cc72" />
+
+<a href="https://www.producthunt.com/products/ultimate-rust-resources?utm_source=badge-follow&utm_medium=badge&utm_source=badge-ultimate&#0045;rust&#0045;resources" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1087470&theme=light" alt="Ultimate&#0032;Rust&#0032;Resources - Compilation&#0032;of&#0032;Rust&#0032;resources&#0032;and&#0032;projects | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## 📖 Documentation  
 
