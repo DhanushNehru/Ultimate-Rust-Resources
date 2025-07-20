@@ -3,8 +3,6 @@ Compilation of Rust Resources and Projects from simple to advanced
 
 <img width="1600" height="840" alt="Why Go Was Built for Speed and Simplicity" src="https://github.com/user-attachments/assets/f33bca70-4bde-4589-9e13-0dfcd100cc72" />
 
-<a href="https://www.producthunt.com/products/ultimate-rust-resources-2?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-ultimate&#0045;rust&#0045;resources&#0045;2" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=994058&theme=dark&t=1752741860744" alt="Ultimate&#0032;Rust&#0032;Resources - Collection&#0032;of&#0032;Rust&#0032;Resources&#0032;and&#0032;Projects&#0032;to&#0032;suit&#0032;your&#0032;needs | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 ## 📖 Documentation  
 
 - 🔗 **Official Rust Docs**: [Rust Language Guide](https://www.rust-lang.org/learn)  
