@@ -19,11 +19,13 @@ Compilation of Rust Resources and Projects from simple to advanced
 
 ### 🔹 Intermediate  
 - [SHA1 Generator](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/sha1_generator) 🔑  
-- [SHA1 Cracker](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/sha1_cracker) 🔓  
+- [SHA1 Cracker](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/sha1_cracker) 🔓
+- [Chatroom app](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/chatroom) 💬
 
 ### 🔹 Advanced  
 - [Async Domain Scanner](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/async_domain_scanner) 🌍  
-- [Parallel Domain Scanner](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/parallel_domain_scanner) ⚡  
+- [Parallel Domain Scanner](https://github.com/DhanushNehru/Ultimate-Rust-Resources/tree/main/projects/parallel_domain_scanner) ⚡ 
+- [Rocket SSE Chat]  ()  ✒️
 
 ## 🎯 Contribution  
 
